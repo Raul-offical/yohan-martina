@@ -1,0 +1,25 @@
+.card img{
+ object-fit: cover;
+  height: 300px;
+}
+.card{
+    margin: 10px;
+    flex: 0 0 calc(33.333% - 20px);
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+}
+
+.frame{
+    display: inline;
+    width:32% ; 
+    float: center;
+    margin: 5px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+
